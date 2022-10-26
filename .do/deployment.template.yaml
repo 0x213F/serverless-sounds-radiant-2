@@ -5,7 +5,7 @@ functions:
 - github:
     branch: main
     deploy_on_push: true
-    repo: digitalocean/sample-functions-python-twilio-sms
+    repo: 0x213F/serverless-sounds-radiant-2
   name: sms-api
   routes:
   - path: /
