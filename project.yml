@@ -4,5 +4,5 @@ environment:
 packages:
   - name: sample
     actions:
-      - name: sms
+      - name: subscribe
         runtime: 'python:default'
